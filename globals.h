@@ -31,8 +31,8 @@ extern const char* git_rootCACertificate;
 
 /********************* fixed defines leave as is *******************/ 
  
-#define APP_NAME "ESP-CAM_MJPEG" // max 15 chars
-#define APP_VER "7.4"
+#define APP_NAME "ESP-GLASSES_CAM" // max 15 chars
+#define APP_VER "1.0"
 
 #define DATA_DIR "/data"
 #define HTML_EXT ".htm"
